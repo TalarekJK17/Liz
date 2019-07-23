@@ -1,0 +1,33 @@
+<style>
+  body {
+  
+  padding-top: 80px;
+  text-align: center;
+  font-family: monaco, monospace;
+  background:#fff200;
+  background-size: cover;
+}
+h1, h2 {
+  display: inline-block;
+  background: maroon;
+}
+h1 {
+  font-size: 30px
+}
+h2 {
+  font-size: 20px;
+}
+p{
+  color: black; 
+  s
+}
+span {
+  background: #fd0;
+}
+
+</style>
+<h1>diffrent teenager <span>apps 2019</span></h1><br>
+<h2>(a realtime html + css editor)</h2>
+<p>coding is really fun!</p>
+<img src="https://media.licdn.com/dms/image/C510BAQGCdThXIss7UQ/company-logo_200_200/0?e=2159024400&v=beta&t=h5QivKp9OClEU91o3_efRvFS_oFbMa0PtjK516qn51A"/>
+<img src="https://www.google.com/url?sa=i&source=images&cd=&ved=2ahUKEwinkJC668vjAhUSbs0KHSGJBmQQjRx6BAgBEAU&url=https%3A%2F%2Fwww.plan.lib.fl.us%2Fevents%2Fwebinar-recording-snapchat%2F&psig=AOvVaw2h5j70t44sIeUUiqjBJthb&ust=1563998727693074"/>
